@@ -142,5 +142,9 @@ def chat():
     # msg.body(response)
     return str(ot_resp)
 
+@app.route('/')
+def index():
+    return "App is running!"
+
 
 
