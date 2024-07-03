@@ -1,0 +1,10 @@
+beautifulsoup4
+flask
+langchain-core
+langchain-community
+git+https://github.com/openai/whisper.git 
+langchain-google-genai
+langchain
+twilio
+Chroma
+sentence-transformers
